@@ -1,11 +1,3 @@
-/**
- * Global Cnon-crop Calculation Tool v1.3 (batch years + FVC fix + landcover through 2024)
- * Modified from the user-provided script:
- *  1) Rename B factor to Cnon-crop throughout the script
- *  2) Set the calculation period to 2001-2024
- *  3) Keep the alpha/beta calibration period as 1994-2023 (unchanged)
- */
-
 // ================ User configuration section (modify as needed) ================
 // Batch calculation years (does not change the alpha/beta historical period, which remains 1994-2023)
 var START_YEAR = 2001;
