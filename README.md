@@ -59,7 +59,7 @@ The main user-configurable parameters are located near the top of the script.
 var START_YEAR = 2001;
 var END_YEAR   = 2024;
 
-var ASSET_PREFIX = "users/yufei8133/";
+var ASSET_PREFIX = "users/XXX/";
 
 var EXPORT_FOLDER = "GEE_Cnon_crop";
 var EXPORT_SCALE  = 500;
@@ -96,7 +96,7 @@ Open the Google Earth Engine Code Editor and create a new script.
 Copy all code from:
 
 ```text
-global_cnon_crop_gee_2001_2024.js
+Global_Cnon_crop_gee.js
 ```
 
 into the GEE Code Editor.
