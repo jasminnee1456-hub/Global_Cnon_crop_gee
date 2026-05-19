@@ -4,7 +4,7 @@ var START_YEAR = 2001;
 var END_YEAR   = 2024;
 
 // Asset path prefix (change to your own Earth Engine asset path)
-var ASSET_PREFIX = "users/yufei8133/";
+var ASSET_PREFIX = "users/XXX/";
 
 // Export settings
 var EXPORT_FOLDER = "GEE_Cnon_crop";  // Export folder name
