@@ -46,7 +46,7 @@ Global-Cnon-crop-GEE/
 ## Main Script
 
 ```text
-  global_Cnon_crop_gee_2001_2024.js
+  Global_Cnon_crop_gee_2001_2024.js
 ```
 
 This is the main Google Earth Engine JavaScript script. It can be copied directly into the Google Earth Engine Code Editor and executed.
